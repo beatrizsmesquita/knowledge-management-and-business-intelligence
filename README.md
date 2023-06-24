@@ -46,4 +46,4 @@ Tutorial done: "AI-Powered Business Intelligence" By Tobias Zwingmann: https://l
 - After doing the project described in chapter 10, and after reading the article "Determinants of churn in telecommunication services: a systematic literature review" (https://link.springer.com/article/10.1007/s11301-023-00335-7 ), create a short paper (5 to 8 pages) where you try to answer the following question: *How can the model proposed in chapter 10 be improved and which additional variables should be taken into consideration?*".  
   
   
-FINAL GRADE: Project1: (**to be assigned**); Project2: (**to be delivered**); Exam: (**to be delivered**). FINAL MARK: (**to be delivered**)
+FINAL GRADE: Project1: 18; Project2: 15; Exam: 16.70 (+2 bonus points: class participation). FINAL MARK: 19.
